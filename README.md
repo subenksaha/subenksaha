@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Doing research for my Ph.D.**
+- 💼 I'm currently working on: **research for my Ph.D.**
 - 🌱 I'm currently learning: **📚 C/CPP for developing system software**
 - 💬 Ask me about: **💡 Node.js, Java, Database, Android**
 - ⚡ Fun fact: **🎢 I started programming with PHP**
