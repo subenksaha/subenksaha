@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **research for my Ph.D.**
 - 🌱 I'm currently learning: **📚 C/CPP for developing system software**
-- 💬 Ask me about: **💡 Node.js, Java, Database, Android**
+- 💬 Ask me about: **💡 Node.js, Java, Database, Machine Learning, Android**
 - ⚡ Fun fact: **🎢 I started programming with PHP**
 
  **<h3 align="left">Skills</h3>**
